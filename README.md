@@ -28,6 +28,7 @@ STEPS TO REPRODUCE ANALYSIS
 5) Modify the analysis as needed for your own coffee sales data.
 
 CONCLUSION 
+
 By completing this Excel project, you will have gained valuable experience in data cleaning, analysis, and visualization using Excel
 . The insights obtained from the analysis can help optimize sales strategies and drive business growth in the coffee industry.
 
